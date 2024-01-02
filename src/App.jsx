@@ -43,7 +43,7 @@ function App() {
         <h1>Random User Generator</h1>
       {userData?(<div
         style={{ height:"400px", width: "700px",backgroundColor:bgColor }}
-        className="shadow border rounded pt-3">
+        className="shadow border rounded pt-3 text-light">
         <div className="row">
           <div className="col"></div>
           <div className="col-3">
